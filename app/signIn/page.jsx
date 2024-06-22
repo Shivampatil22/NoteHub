@@ -1,9 +1,10 @@
+import SignIn from "@/app/components/SignIn";
 import Image from "next/image";
 
-export default function Home() {
+export default function SignInPage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-       hello world
+      <SignIn type={"Sign Up"} />
     </main>
   );
 }
