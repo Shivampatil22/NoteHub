@@ -1,4 +1,4 @@
-export default MainData = {
+const  MainData = {
     "streams": [
         {
             "name": "Engineering",
@@ -216,6 +216,6 @@ export default MainData = {
     ]
 }
 
-
+export default MainData
 
 //https://cdn.monkplatform.com/image/czoyMjU6Imh0dHBzJTNBJTJGJTJGMzFiYWE5MjA0MDExYTRiNzM3M2QtNGI0NWM2MjdiNDc4OTA0YjRkOThiYzMyYjRiZTkyOTEuc3NsLmNmMi5yYWNrY2RuLmNvbSUyRnVwbG9hZGVkJTJGaSUyRjBlNjkwMDI1OF8xNTE1NzcwMDgyX2lzdG9jay01NDQ3MjcwOTAuanBnJTNGcSUzRDkwJTI2dyUzRDMyMDAlMjZoJTNEMCUyNmZpdCUzRG1heCUyNnMlM0Q0NzA5MDY0ZDMwZWY1YzA0YTI3OWMwZDlmY2U0MjY0MCI7/istock-544727090.jpg
